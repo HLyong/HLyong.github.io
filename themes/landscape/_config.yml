@@ -10,7 +10,7 @@ rss: /atom.xml
 # Content
 excerpt_link: Read More
 fancybox: true
-
+avatar: ./img/head.jpg
 # Sidebar
 sidebar: right
 widgets:
