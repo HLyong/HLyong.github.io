@@ -2,6 +2,9 @@
 menu:
   Home: /
   Archives: /archives
+  categories: /categories
+  type: /tags
+  about: /about
 rss: /atom.xml
 
 # Content
